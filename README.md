@@ -12,7 +12,7 @@ Front End Developer. :computer:
 
 <br /> <hr>
 
-- :pushpin: Knowledge: HTML, CSS, Javascript, React .
+- :pushpin: Knowledge: HTML, CSS, Javascript, React.
 - :blue_book: Learning: Typescript, React Native e NoteJS.
 
 <hr>
