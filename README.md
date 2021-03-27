@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello world  👋
 
-<!--
-**joao-monteiro-santos/joao-monteiro-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front End Developer. :computer:
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :pushpin: Knowledge: HTML, CSS, Javascript, React .
+- :blue_book: Learning: Typescript, React Native e NoteJS.
+
+<hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-monteiro-santos&show_icons=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-monteiro-santos&show_icons=true&theme=highcontrast)
