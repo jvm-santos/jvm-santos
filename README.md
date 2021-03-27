@@ -6,7 +6,7 @@ Front End Developer. :computer:
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a target="_blank" href="jvmsantos13@gmail.com">
+<a target="_blank" href="mailto:jvmsantos13@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -20,3 +20,4 @@ Front End Developer. :computer:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-monteiro-santos&show_icons=true&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-monteiro-santos&show_icons=true&theme=highcontrast)
+
