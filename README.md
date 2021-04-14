@@ -4,11 +4,11 @@ Student and aspiring developer. :computer: <br />
 Knowledge of front end technologies but i want to venture into band end technologies soon. :books:
 
 <a target="_blank" href="https://www.linkedin.com/in/jvmsantos13/">
-  <img align="left" alt="LinkdeIN" width="22px" src="linkedin.png" />
+  <img align="left" alt="LinkdeIN" width="30px" src="linkedin.png" />
 </a>
 
 <a target="_blank" href="mailto:jvmsantos13@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="email.png" />
+  <img align="left" alt="Gmail" width="30px" src="email.png" />
 </a>
 
 <br /> <hr>
