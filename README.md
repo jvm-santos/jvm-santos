@@ -22,6 +22,3 @@ Knowledge of front end technologies but i want to venture into band end technolo
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvmsantos13&show_icons=true&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvmsantos13&layout=compact&theme=highcontrast)
-
-
-<img src="https://camo.githubusercontent.com/19cfe4f29e6ce4e61ad5c0f97fb2448114f8e8a8855b1839d13bcec5a76b9d15/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6361696f616769616e692e76697369746f722d6261646765" alt="Visitantes do Github" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=jvmsantos13.visitor-badge" style="max-width:100%;">
