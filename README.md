@@ -1,7 +1,10 @@
 ## Hello world  👋
 
-Student and aspiring developer. :computer: <br />
-Knowledge of front end technologies but i want to venture into band end technologies soon. :books:
+Estudante e aspirante a desenvolvedor. :computer:
+
+Conhecimento em tecnologias front-end, porém quero me aventurar em back-end em breve. :books:
+
+Apaixonado por café. :coffee:
 
 <a target="_blank" href="https://www.linkedin.com/in/jvmsantos13/">
   <img align="left" alt="LinkdeIN" width="30px" src="linkedin.png" />
@@ -13,9 +16,9 @@ Knowledge of front end technologies but i want to venture into band end technolo
 
 <br /> <hr>
 
-- :pushpin: Knowledge: HTML5, CSS3, Javascript, ReactJS, GitHub
+- :pushpin: Conhecimentos: HTML5, CSS3, Javascript, ReactJS, GitHub
 
-- :blue_book: Learning: NodeJS, Typescript, React Native
+- :blue_book: Aprendendo: NodeJS, Typescript, React Native
 
 <hr>
 
