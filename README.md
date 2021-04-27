@@ -2,7 +2,7 @@
 
 Estudante e aspirante a desenvolvedor. :computer:
 
-Conhecimento em tecnologias front-end, porém quero me aventurar em back-end em breve. :books:
+Conhecimento em tecnologias front-end, porém quero me aventurar em back-end em um futuro próximo. :books:
 
 Apaixonado por café. :coffee:
 
