@@ -16,9 +16,9 @@ Apaixonado por café. :coffee:
 
 <br /> <hr>
 
-- :pushpin: Conhecimentos: HTML5, CSS3, Javascript, ReactJS, Git
+- :pushpin: Conhecimentos: HTML, CSS, Javascript, ReactJS, Git.
 
-- :blue_book: Aprendendo: Typescript, NodeJS, React Native
+- :blue_book: Aprendendo: Bootstrap, Typescript, NodeJS e MongoDB.
 
 <hr>
 
