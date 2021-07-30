@@ -10,7 +10,6 @@ Apaixonado por café :coffee:
 </div>
 
 <div style="display: inline_block"><br>
-  <p>:pushpin: Conhecimentos</p>
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
