@@ -5,8 +5,8 @@ Estudante e aspirante a desenvolvedor front-end :computer:
 Apaixonado por café :coffee:
 
 <div>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jvmsantos13&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmsantos13&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jvmsantos13&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmsantos13&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
 <div style="display: inline_block"><br>
