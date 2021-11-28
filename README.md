@@ -1,6 +1,7 @@
 ## Hello World  👋
 
 Estudante e aspirante a desenvolvedor front-end :computer:
+<br>
 Curioso em UI/UX Design :monocle_face:
 
 Apaixonado por café :coffee:
