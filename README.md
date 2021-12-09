@@ -4,14 +4,13 @@
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif"><img align="center" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" height="300px" style="max-width: 100%;"></a>
 </p>
 
-### Sobre mim
 Meu nome é João Victor, tenho 24 anos.
 
-Sou formado em Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho e atualmente faço cursos focado para área de desenvolvimento Front-End e UI/UX Design.
+<p>Sou formado em Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho e atualmente faço cursos focado para área de desenvolvimento Front-End e UI/UX Design.
 Tive contato também com a área de infraestrutura de redes e telefonia. :computer: <br><br>
-Apaixonado por café. :coffee:
+Apaixonado por café. :coffee: </p>
 
-#
+##
 
 <div>  
   :mag_right: Tecnologias e Ferramentas:<br><br>
