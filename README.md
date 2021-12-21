@@ -19,7 +19,6 @@ Apaixonado por café. :coffee: </p>
   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
 ##
