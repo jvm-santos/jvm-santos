@@ -4,7 +4,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif"><img align="center" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" height="300px" style="max-width: 100%;"></a>
 </p>
 
-Meu nome é João Victor, tenho 24 anos.
+Meu nome é João Victor, tenho 27 anos.
 
 <p>Sou formado em Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho e atualmente faço cursos focado para área de desenvolvimento Front-End e UI/UX Design.
 Tive contato também com algumas outras áreas como mecatrônica e robótica, infraestrutura de redes e telefonia. :computer: <br><br>
