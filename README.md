@@ -7,7 +7,7 @@
 Meu nome é João Victor, tenho 27 anos.
 
 <p>Sou formado em Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho e atualmente faço cursos focado para área de desenvolvimento Front-End e UI/UX Design.
-Tive contato também com algumas outras áreas como mecatrônica e robótica, infraestrutura de redes e telefonia. :computer: <br><br>
+Tive contato também com algumas outras áreas como mecatrônica e robótica, infraestrutura de redes e telefonia, rádio comunicação e sistemas P25 e DMR. :computer: <br><br>
 Apaixonado por café. :coffee: </p>
 
 ##
