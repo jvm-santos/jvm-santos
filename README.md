@@ -7,7 +7,7 @@
 Meu nome é João Victor, tenho 27 anos.
 
 <p>Meu nome é João Victor, tenho 27 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho. Atualmente, estou direcionando minha carreira para o desenvolvimento Front-End, com foco em tecnologias como HTML, CSS, JavaScript, React e design de interfaces UX/UI, utilizando ferramentas como o Figma.
-
+<br>
 Meu interesse por tecnologia começou no ensino fundamental, durante uma oficina de robótica, onde programei robôs com LEGO Mindstorms. Desde então, explorei áreas como mecatrônica, infraestrutura de redes e sistemas de comunicação.
 Estou em busca de oportunidades como Desenvolvedor Front-End Jr para aplicar meus conhecimentos, colaborar em projetos inovadores e continuar aprendendo. :computer: <br><br>
 Apaixonado por café. :coffee: </p>
@@ -29,7 +29,7 @@ Apaixonado por café. :coffee: </p>
   :iphone: Entre em contato:<br><br>
   
   <a href = "mailto:jvmsantos13@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jvmsantos13/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jvmsantos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
   
  ##
