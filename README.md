@@ -98,3 +98,4 @@ Apaixonado por café. ☕
   />
 </div>
 
+  ![Snake animation](https://github.com/jvmsantos13/jvmsantos13/blob/output/github-contribution-grid-snake.svg)
