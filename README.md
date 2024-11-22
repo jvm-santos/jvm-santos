@@ -88,14 +88,14 @@ Apaixonado por café. ☕
     alt="GitHub Stats" 
     height="180" 
     style="margin-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=jvmsantos13&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=jvm-santos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="GitHub Top Languages" 
     height="180" 
     width="380"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmsantos13&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvm-santos&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=9" 
   />
 </div>
 
-  ![Snake animation](https://github.com/jvmsantos13/jvmsantos13/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jvm-santos/jvm-santos/blob/output/github-contribution-grid-snake.svg)
