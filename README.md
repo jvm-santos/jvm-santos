@@ -17,7 +17,7 @@ Apaixonado por café. ☕
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a> 
-    <a href="https://www.linkedin.com/in/jvmsantos/">
+    <a href="https://www.linkedin.com/in/joaovmonteiro/">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
